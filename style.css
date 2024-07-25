@@ -9,11 +9,6 @@
     
 }
 
-@media screen {
-    max-width: 100%;
-    min-width: 50%;
-}
-
 body {
     background: #eaeaea;
 }
